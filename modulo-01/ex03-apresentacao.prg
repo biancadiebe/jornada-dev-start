@@ -1,13 +1,15 @@
+REQUEST HB_CODEPAGE_PT850
+
 FUNCTION Main()
 
     LOCAL cNome   := "Bianca Diebe"
     LOCAL cCidade := "Sorocaba"
     LOCAL cCurso  := "Harbour/ADVPL"
 
-    hb_cdpSelect("PT850")
+    hb_cdpSelect( "PT850" )
 
     QOut("===========================")
-    QOut("  FICHA DE APRESENTA√á√ÉO  ")
+    QOut("  FICHA DE APRESENTAÄ«O  ")
     QOut("===========================")
     QOut("Nome   : " + cNome)
     QOut("Cidade : " + cCidade)
