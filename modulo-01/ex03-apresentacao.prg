@@ -9,7 +9,7 @@ FUNCTION Main()
     hb_cdpSelect( "PT850" )
 
     QOut("===========================")
-    QOut("  FICHA DE APRESENTAÄ«O  ")
+    QOut("  FICHA DE APRESENTA√á√ÉO  ")
     QOut("===========================")
     QOut("Nome   : " + cNome)
     QOut("Cidade : " + cCidade)
