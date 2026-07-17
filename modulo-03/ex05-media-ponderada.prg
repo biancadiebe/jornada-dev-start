@@ -9,16 +9,16 @@ FUNCTION Main()
     LOCAL nMedia
 
     //NOTAS
-    ACCEPT "Nota 1ø BIM: " TO cEntrada
+    ACCEPT "Nota 1ï¿½ BIM: " TO cEntrada
     nNota1 := Val(cEntrada)
 
-    ACCEPT "Nota 2ø BIM: " TO cEntrada
+    ACCEPT "Nota 2ï¿½ BIM: " TO cEntrada
     nNota2 := Val(cEntrada)
 
-    ACCEPT "Nota 3ø BIM: " TO cEntrada
+    ACCEPT "Nota 3ï¿½ BIM: " TO cEntrada
     nNota3 := Val(cEntrada)
 
-    ACCEPT "Nota 4ø BIM: " TO cEntrada
+    ACCEPT "Nota 4ï¿½ BIM: " TO cEntrada
     nNota4 := Val(cEntrada)
 
     //CALCULO 
@@ -26,6 +26,6 @@ FUNCTION Main()
 
     nMedia := (nNota1 * 1 + nNota2 * 2 + nNota3 * 3 + nNota4 * 4) / nPesos
 
-    QOut("M‚dia: " + Str(nMedia, 10, 2))
+    QOut("Mï¿½dia: " + Str(nMedia, 10, 2))
 
 RETURN NIL
