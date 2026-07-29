@@ -1,3 +1,5 @@
 EXERCÍCIO 4 - Validação com ExistCpo
 
-![Tela 1](https://github.com/biancadiebe/jornada-dev-start/blob/62accdbdbf1a9f95aaf08e14da35f8771c121a44/imagens/imagem8.png)
+![Tela 1](https://github.com/biancadiebe/jornada-dev-start/blob/c1730eb5ec47f1537c2544b0ff931370e33bd9dd/imagens/imagem9.png)
+
+![Tela 2](https://github.com/biancadiebe/jornada-dev-start/blob/c1730eb5ec47f1537c2544b0ff931370e33bd9dd/imagens/imagem10.png)
