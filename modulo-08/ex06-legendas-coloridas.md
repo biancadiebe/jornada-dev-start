@@ -1,29 +1,3 @@
-#include "protheus.ch"
+EXERCÍCIO 6 - Legendas coloridas
 
-USER FUNCTION STTIP002()
-
-LOCAL cFiltro := ""
-LOCAL aColors
-
-PRIVATE cCadastro := "Pets"
-PRIVATE aRotina := {;
-    {"Pesquisar", "AxPesqui", 0, 1},;
-    {"Visualizar", "AxVisual", 0, 2},;
-    {"Incluir", "AxInclui", 0, 3},;
-    {"Alterar", "AxAltera", 0, 4},;
-    {"Excluir", "AxDeleta", 0, 5};
-}
-
-aColors := {;
-    {"ZA1->ZA1_NASC < dDataBase - 3650", "BR_VERMELHO"},;
-    {"ZA1->ZA1_NASC == dDataBase", "BR_AMARELO"},;
-    {".T.", "BR_VERDE"};
-}
-
-dbSelectArea("ZA1")
-dbSetOrder(1)
-
-mBrowse(1, 1, 22, 75, "ZA1", , , , , , aColors, , , , , .F., , , cFiltro)
-
-RETURN NIL
-		
+![Tela 1](https://github.com/biancadiebe/jornada-dev-start/blob/9b551f53e78789f09f0521e494a96f7b424c561e/imagens/imagem12.png)
