@@ -3,6 +3,7 @@
 USER FUNCTION STTIP002()
 
 LOCAL cFiltro := ""
+LOCAL aColors
 
 PRIVATE cCadastro := "Pets"
 PRIVATE aRotina := {;
@@ -13,10 +14,16 @@ PRIVATE aRotina := {;
     {"Excluir", "AxDeleta", 0, 5};
 }
 
+aColors := {;
+    {"ZA1->ZA1_NASC < dDataBase - 3650", "BR_VERMELHO"},;
+    {"ZA1->ZA1_NASC == dDataBase", "BR_AMARELO"},;
+    {".T.", "BR_VERDE"};
+}
+
 dbSelectArea("ZA1")
 dbSetOrder(1)
 
-mBrowse(1, 1, 22, 75, "ZA1", , , , , , , , , , , , , , cFiltro)
+mBrowse(1, 1, 22, 75, "ZA1", , , , , , aColors, , , , , .F., , , cFiltro)
 
 RETURN NIL
 		
