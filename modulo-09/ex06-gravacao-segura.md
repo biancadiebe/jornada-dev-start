@@ -1,7 +1,7 @@
-EXERCÍCIO 6 - Gravação à prova de falhas
+## EXERCÍCIO 6 - Gravação à prova de falhas
 
-Tela 1 - Erro (Assunto)
+## Tela 1 - Erro (Assunto): Assunto é obrigatório!
 ![Tela 1](https://github.com/biancadiebe/jornada-dev-start/blob/c3a83c855753652e039e144689fc5a866ba25576/imagens/imagem33.png)
 
-Tela 2 - Erro (Cliente)
+## Tela 2 - Erro (Cliente)> Cliente é obrigatório!
 ![Tela 2](https://github.com/biancadiebe/jornada-dev-start/blob/c3a83c855753652e039e144689fc5a866ba25576/imagens/imagem34.png)
