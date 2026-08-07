@@ -1,7 +1,7 @@
 EXERCÍCIO 1 - CONCEITOS FUNDAMENTAIS
 
 a. Qual é a função do AppServer?
-Funciona como o "cérebro", é ele quem processa o código e conversa com o banco de dados para processar as informações.
+Funciona como o "cérebro", ele quem processa o código e conversa com o banco de dados para processar as informações.
 
 b. O que é o RPO?
 Quando usamos o Harbour e compilamos o arquivo em .prg, ele gera o .exe (executável). No Protheus, ele é compilado para um repositório chamado RPO onde ficam armazenados todas essas rotinas do sistema.

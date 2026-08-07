@@ -4,7 +4,7 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) para a **Jornada
 
 ---
 
-## Autora
+## Aluna
 * **Nome:** Bianca Diebe
 * **Programa:** Jornada DEV START – TOTVS
 

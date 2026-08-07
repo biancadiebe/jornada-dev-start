@@ -17,8 +17,8 @@ FUNCTION MAIN()
     IF nNum1 == nNum2
         QOut("Os valores são iguais")
     ELSEIF nNum1 > nNum2
-        QOut("O primeiro valor: " + Str(nNum1, 10, 2) + " é o maior.")
+        QOut("O primeiro valor: " + Str(nNum1, 10, 2) + " é maior.")
     ELSE
-        QOut("O segundo valor: " + Str(nNum2, 10, 2) + " é o maior.")
+        QOut("O segundo valor: " + Str(nNum2, 10, 2) + " é maior.")
     ENDIF
 RETURN NIL 

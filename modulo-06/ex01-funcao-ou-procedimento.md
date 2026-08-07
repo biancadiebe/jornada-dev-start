@@ -1,7 +1,7 @@
 EXERCÍCIO 01 - Exercício 1 — Função ou procedimento?
 
 Str() - FUNÇÃO
-O Str é uma função porque retorna um valor (string) para o programa (fazendo a conversão de número -> string)
+Str é uma função porque retorna um valor (string) para o programa (fazendo a conversão de número -> string)
 
 QOut() - PROCEDIMENTO
 QOut() é um procedimento porque não retorna nenhum valor "útil" para o programa, ele apenas uma informação na tela para o usuário.

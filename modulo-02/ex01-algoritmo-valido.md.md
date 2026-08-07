@@ -1,7 +1,7 @@
 EXERCÍCIO 1 - Isto é um algoritmo válido?
 
 a. "Some dois números"
-- Sim, pois ele é finito e uma instrução clara. (Só irá somar dois números, então ele tem um ponto de início e fim).
+- Sim, ele é finito e uma instrução clara. (Só irá somar dois números, então ele tem um ponto de início e fim).
 
 b. “Leia um número. Se for positivo, mostre ‘positivo’. Senão, mostre ‘negativo’.”
 - É um algoritmo válido. Ele é finito e possui instruções e uma sequência lógica para os dois cenários (positivo e negativo)

@@ -27,7 +27,7 @@
 ## Tela 9 - Tabela SZ3 (Indices - Por data) - Z3_FILIAL+DTOS(Z3_DATA)
 ![Tela 9](https://github.com/biancadiebe/jornada-dev-start/blob/31e98a67193fb717edb0cf416c867142a2826a2a/imagens/imagem24.png)
 
-## Tela 10 - Tabela Z3 (Vi que na apostila bônus estava como Z3, e nos exercícios estava como Z2, então preferi manter no padrão da apostila bônus) - Tabela: 00, Chave: Z3, Descricao: TIPOS DE INTERACAO
+## Tela 10 - Tabela Z3 (Vi que na apostila bônus estava como Z3, e nos exercícios estava como Z2, então preferi manter no padrão da apostila bônus) - Tabela: 00, Chave: Z3, Descrição: TIPOS DE INTERACAO
 ![Tela 10](https://github.com/biancadiebe/jornada-dev-start/blob/31e98a67193fb717edb0cf416c867142a2826a2a/imagens/imagem25.png)
 
 ## Tela 11 - Tabela Z3 (Itens)

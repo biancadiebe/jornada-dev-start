@@ -16,7 +16,7 @@ FUNCTION Main()
             EXIT
         ENDIF
         nNumDobro := nNum * 2
-        QOut("Número em dobro: " + Str(nNumDobro))
+        QOut("O Número em dobro: " + Str(nNumDobro))
     ENDDO
 
 RETURN NIL

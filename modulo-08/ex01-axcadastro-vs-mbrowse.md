@@ -1,6 +1,6 @@
 EXERCÍCIO 1 - AxCadastro × mBrowse
 
-a. Quando você usaria AxCadastro e quando usaria mBrowse ? Dê um exemplo de cada.
+a. Quando você usaria AxCadastro e quando usaria mBrowse? Dê um exemplo de cada.
 AxCadastro: É o caminho mais rápido para ter um cadastro funcionando. É usado para tabelas mais simples pois temos menos controle de funções específicas. É usado também muito para aprendizado.
 mBrowsE: É mais focado em um controle maior e mais detalhado. Ele possui funções mais específicas e aprofundadas, e funciona para rotinas de produção em um sistema real.
 
